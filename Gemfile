@@ -11,8 +11,9 @@ gem 'rails', '~> 5.1.5'
 # Use sqlite3 as the database for Active Record
 gem 'devise'
 gem 'twitter-bootstrap-rails'
-gem 'devise-bootstrap-views'
+gem 'devise-bootstrap-views', '~> 1.1.0'
 gem 'jquery-rails', '~> 4.3.1 '
+gem 'font-awesome-sass'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
